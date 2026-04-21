@@ -1,6 +1,6 @@
 # ProiectASIPSI
-Proiectul cuprinde:
-1.Documentul de specificare a cerințelor
-2.Documentul de specificații de proiectare
-3.Proiectul de tip Scrum gestionat în Jira corespunzător proiectului de licență
-4.Prezentare powerpoint a proiectului de licență
+Proiectul cuprinde:  
+1.Documentul de specificare a cerințelor  
+2.Documentul de specificații de proiectare  
+3.Link-ul catre proiectul Jira  
+4.Prezentare powerpoint  
